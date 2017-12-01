@@ -1,2 +1,2 @@
 # MyiPhoneAPP
-The repository use to learn Xcode, Swift and git, it's test codes.
+The repository use to learning Xcode, Swift and git, it's test codes.
